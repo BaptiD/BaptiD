@@ -18,7 +18,6 @@ Hello and welcome to my profile !
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BaptID&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](vercelapp-git-main-baptids-projects.vercel.app)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BaptID&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
