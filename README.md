@@ -1,4 +1,5 @@
 ## Hello everyone !
+
 <br>
 
 🎓 3rd year student at Epitech Paris, dotted with Solustop internships
@@ -31,6 +32,7 @@
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
 [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org/fr/)
 [![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)](https://www.ovhcloud.com/)
+
 <br>
 
 ## 🌐 Socials:
