@@ -2,7 +2,7 @@
 
 <br>
 
-<b>Im a 3rd year 🎓student at <span style="color:blue">Epitech Paris</span>, dotted with Solustop internships</b>
+**Im a 3rd year 🎓student at ![Epitech](https://img.shields.io/badge/Epitech-Paris-darkblue), dotted with ![Solustop](https://img.shields.io/badge/Solustop-darkred) internships**
 
 <br>
 
