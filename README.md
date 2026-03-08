@@ -1,5 +1,5 @@
 ## Hello everyone !
-🎓 3rd year student at Epitech Paris
+🎓 3rd year student at Epitech Paris, dotted with Solustop internships
 
 <img src="./assets/epitech.png" height="80"/><img src="./assets/solustop.png" height="80" style="border-radius: 5px"/>
 
