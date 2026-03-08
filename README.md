@@ -2,7 +2,7 @@
 
 <br>
 
-Im a 3rd year 🎓student at **Epitech** Paris, dotted with **Solustop** internships
+Im a 3rd year 🎓student at **Epitech Paris**, dotted with **Solustop** internships
 
 <br>
 
