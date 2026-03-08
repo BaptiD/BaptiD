@@ -1,7 +1,6 @@
 ## Hello and welcome to my profile !
 
 <img src="./assets/epitech.png" height="80"/>
-<span style="font-size:100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img src="./assets/solustop.png" height="80" style="border-radius: 5px"/>
 
 ## 🌐 Socials:
