@@ -1,7 +1,6 @@
 ## Hello and welcome to my profile !
 
-<img src="./assets/epitech.png" height="80"/>
-<img src="./assets/solustop.png" height="80" style="border-radius: 5px"/>
+<img src="./assets/epitech.png" height="80"/><img src="./assets/solustop.png" height="80" style="border-radius: 5px"/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/baptiste-dunes/) 
