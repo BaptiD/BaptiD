@@ -1,9 +1,7 @@
 ## Hello and welcome to my profile !
+🎓 3rd year student at Epitech Paris
 
 <img src="./assets/epitech.png" height="80"/><img src="./assets/solustop.png" height="80" style="border-radius: 5px"/>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/baptiste-dunes/) 
 
 # 💻 Tech Stack:
 ⭐⭐⭐⭐⭐
@@ -36,3 +34,6 @@
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/baptiste-dunes/) 
