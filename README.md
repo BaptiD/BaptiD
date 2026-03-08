@@ -1,7 +1,6 @@
 Hello and welcome to my profile !
 
-
-![Epitech](https://img-ccmbg-1.lefigaro.fr/tw-H5LnIRze6xBC-EQoB4cHHENs=/x110/576d846694614e349af38c0bee0f540d/ccmcms-figaroetudiant/39499169.png)
+<img src="https://img-ccmbg-1.lefigaro.fr/tw-H5LnIRze6xBC-EQoB4cHHENs=/x110/576d846694614e349af38c0bee0f540d/ccmcms-figaroetudiant/39499169.png" width="80" />
 ![Solustop](https://www.solustop.com/assets/img/logo.png)
 
 ## 🌐 Socials:
