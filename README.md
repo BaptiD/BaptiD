@@ -1,7 +1,8 @@
-Hello and welcome to my profile !
+## Hello and welcome to my profile !
 
-<img src="https://img-ccmbg-1.lefigaro.fr/tw-H5LnIRze6xBC-EQoB4cHHENs=/x110/576d846694614e349af38c0bee0f540d/ccmcms-figaroetudiant/39499169.png" width="80" />
-![Solustop](https://www.solustop.com/assets/img/logo.png)
+<img src="./assets/epitech.png" height="80"/>
+<span style="font-size:100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="./assets/solustop.png" height="80" style="border-radius: 5px"/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/baptiste-dunes/) 
