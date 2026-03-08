@@ -1,11 +1,11 @@
 ## Hello everyone !
 <br>
+
 🎓 3rd year student at Epitech Paris, dotted with Solustop internships
 
 <br>
 
 <a href="https://www.epitech.eu/"><img src="./assets/epitech.png" height="60"/></a><a href="https://www.solustop.com/"><img src="./assets/solustop.png" height="60" style="border-radius: 5px"/></a>
-
 <br>
 
 ## 💻 Tech Stack:
