@@ -1,5 +1,7 @@
 Hello and welcome to my profile !
 
+Sadly You cannot access the big majority of the work I do, the main organisations being hidden
+
 ![Epitech](https://img-ccmbg-1.lefigaro.fr/tw-H5LnIRze6xBC-EQoB4cHHENs=/x110/576d846694614e349af38c0bee0f540d/ccmcms-figaroetudiant/39499169.png)
 ![Solustop](https://www.solustop.com/assets/img/logo.png)
 
