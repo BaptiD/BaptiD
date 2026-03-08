@@ -4,6 +4,8 @@
 
 **Im a 3rd year 🎓student at ![Epitech](https://img.shields.io/badge/Epitech-Paris-darkblue), dotted with ![Solustop](https://img.shields.io/badge/Solustop-darkred) internships**
 
+**I'm a 3rd year 🎓 student at** ![Epitech](https://img.shields.io/badge/Epitech_Paris-blue) **dotted with** ![Solustop](https://img.shields.io/badge/Solustop-red) **internships**
+
 <br>
 
 <a href="https://www.epitech.eu/"><img src="./assets/epitech.png" height="60"/></a><a href="https://www.solustop.com/"><img src="./assets/solustop.png" height="60" style="border-radius: 5px"/></a>
