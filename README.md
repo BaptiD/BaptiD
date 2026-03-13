@@ -38,3 +38,6 @@ Im a 3rd year 🎓student at **Epitech Paris**, dotted with **Solustop** interns
 
 ## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baptiste-dunes/)
+
+## Stats :
+![baptid's Stats](https://github-readme-stats.vercel.app/api?username=baptid&theme=gotham&show_icons=true&hide_border=true&count_private=true)
