@@ -6,7 +6,7 @@ Im a 3rd year 🎓student at **Epitech Paris**, dotted with **Solustop** interns
 
 <br>
 
-<a href="https://www.epitech.eu/"><img src="./assets/epitech.png" height="65px"/></a><img width="100%" height="0px" /><a href="https://www.solustop.com/"><img src="./assets/solustop.png" height="65px" align="right"/></a>
+<a href="https://www.epitech.eu/"><img src="./assets/epitech.png" height="65px"/></a><img width="90%" height="0px" /><a href="https://www.solustop.com/"><img src="./assets/solustop.png" height="65px" align="right"/></a>
 
 <br>
 
