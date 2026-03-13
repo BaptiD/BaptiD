@@ -8,8 +8,8 @@ Im a 3rd year 🎓student at **Epitech Paris**, dotted with **Solustop** interns
 
 <table width="1000px" border="0">
   <tr>
-    <td width="50%" align="left"><a href="https://www.epitech.eu/"><img src="./assets/epitech.png" height="60"/></a></td>
-    <td width="50%" align="right"><a href="https://www.solustop.com/"><img src="./assets/solustop.png" height="60" style="border-radius: 5px"/></a></td>
+    <td width="500px" align="left"><a href="https://www.epitech.eu/"><img src="./assets/epitech.png" height="60"/></a></td>
+    <td width="500px" align="right"><a href="https://www.solustop.com/"><img src="./assets/solustop.png" height="60" style="border-radius: 5px"/></a></td>
   </tr>
 </table>
 
