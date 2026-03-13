@@ -40,4 +40,6 @@ Im a 3rd year 🎓student at **Epitech Paris**, dotted with **Solustop** interns
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baptiste-dunes/)
 
 ## Stats :
-![baptid's Stats](https://github-readme-stats.vercel.app/api?username=baptid&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)![baptid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=baptid&theme=chartreuse-dark&hide_border=true)
+![baptid's Stats](https://github-readme-stats.vercel.app/api?username=baptid&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+![baptid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=baptid&theme=chartreuse-dark&hide_border=true)
+![baptid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baptid&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
