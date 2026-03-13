@@ -6,8 +6,11 @@ Im a 3rd year 🎓student at **Epitech Paris**, dotted with **Solustop** interns
 
 <br>
 
-<a href="https://www.epitech.eu/"><img src="./assets/epitech.png" height="60"/></a><a href="https://www.solustop.com/"><img src="./assets/solustop.png" height="60" style="border-radius: 5px"/></a>
-<br>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://www.epitech.eu/"><img src="./assets/epitech.png" height="60"/></a>
+  <a href="https://www.solustop.com/"><img src="./assets/solustop.png" height="60" style="border-radius: 5px"/></a>
+</div>
+
 <br>
 
 ## 💻 Tech Stack :
@@ -39,7 +42,10 @@ Im a 3rd year 🎓student at **Epitech Paris**, dotted with **Solustop** interns
 ## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baptiste-dunes/)
 
-## Stats :
+## 📊 Stats :
+<div align="center">
+
 ![baptid's Stats](https://github-readme-stats.vercel.app/api?username=baptid&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 ![baptid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=baptid&theme=chartreuse-dark&hide_border=true)
-![baptid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baptid&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>
