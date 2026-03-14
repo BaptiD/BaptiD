@@ -42,9 +42,8 @@ Im a 3rd year 🎓student at **<a href="https://www.epitech.eu/">Epitech Paris</
 
 <h1> 📊 Stats</h1>
 
-![baptid's Stats](https://github-readme-stats.vercel.app/api?username=baptid&show_icons=true&hide_border=true&count_private=true&dates=777777&background=00000000)
-![baptid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=baptid&hide_border=true&count_private=true&dates=777777&background=FF000000)
-
+![baptid's Stats](https://github-readme-stats.vercel.app/api?username=baptid&theme=nord&show_icons=true&hide_border=true&count_private=true&background=FF000000)
+![baptid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=baptid&theme=nord&hide_border=true&background=FF000000)
 
 <h1>🌐 Socials</h1>
 
