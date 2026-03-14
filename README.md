@@ -11,7 +11,7 @@ Im a 3rd year 🎓student at **<a href="https://www.epitech.eu/">Epitech Paris</
 
 <br>
 
-<table border="0" width="100%">
+<table border="0" style="border-color: #FFFFFF00" width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
 
