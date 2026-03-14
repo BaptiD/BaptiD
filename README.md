@@ -12,7 +12,7 @@ Im a 3rd year 🎓student at **<a href="https://www.epitech.eu/">Epitech Paris</
 <br>
 
 
-<div align="left">
+<div align="left" width="49%">
 <h1>💻 Tech Stack</h1>
 
 <h3>These are my ❤️</h3>
@@ -41,12 +41,13 @@ Im a 3rd year 🎓student at **<a href="https://www.epitech.eu/">Epitech Paris</
 <div align="right">
 <h1>📊 Stats</h1>
 
-<img width="100%" alt="baptid's Stats" src="https://github-readme-stats.vercel.app/api?username=baptid&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=FF000000">
+<img width="49%" alt="baptid's Stats" src="https://github-readme-stats.vercel.app/api?username=baptid&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=FF000000">
 
-<img width="100%" alt="baptid's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=baptid&theme=tokyonight&hide_border=true&background=FF000000">
+<img width="49%" alt="baptid's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=baptid&theme=tokyonight&hide_border=true&background=FF000000">
 </div>
 
 <h1>🌐 Socials</h1>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baptiste-dunes/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baptiste.dunes@epitech.eu) 
