@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/banner.png" width="100%" style="border-radius: 10px 0px 10px 0px;"/>
+<img src="./assets/banner.png" width="100%" style="border-radius: 15px;"/>
 <br>
 
 <h1>Hello everyone !</h1>
