@@ -1,4 +1,6 @@
 <div align="center">
+<img src="./assets/banner.png" width="100%"/>
+<br>
 
 <h1>Hello everyone !</h1>
 
@@ -6,10 +8,6 @@
 
 
 Im a 3rd year 🎓student at **<a href="https://www.epitech.eu/">Epitech Paris</a>**, dotted with **<a href="https://www.solustop.com/">Solustop</a>** internships
-
-<br>
-
-<img src="./assets/banner.png" width="100%"/>
 
 <br>
 
