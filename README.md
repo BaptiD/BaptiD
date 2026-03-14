@@ -1,6 +1,9 @@
-## Hello everyone !
+<div align="center">
+
+<h1>Hello everyone !</h1>
 
 <br>
+
 
 Im a 3rd year 🎓student at **<a href="https://www.epitech.eu/">Epitech Paris</a>**, dotted with **<a href="https://www.solustop.com/">Solustop</a>** internships
 
@@ -10,7 +13,6 @@ Im a 3rd year 🎓student at **<a href="https://www.epitech.eu/">Epitech Paris</
 
 <br>
 
-<div align="center">
 <h1> 💻 Tech Stack</h1>
 
 ### These are my ❤️
