@@ -11,10 +11,8 @@ Im a 3rd year 🎓student at **<a href="https://www.epitech.eu/">Epitech Paris</
 
 <br>
 
-<table frame="void" rules="none">
-<tr>
-<td width="50%" valign="top" align="center">
 
+<div align="left">
 <h1>💻 Tech Stack</h1>
 
 <h3>These are my ❤️</h3>
@@ -38,19 +36,15 @@ Im a 3rd year 🎓student at **<a href="https://www.epitech.eu/">Epitech Paris</
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
 [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org/fr/)
 [![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)](https://www.ovhcloud.com/)
+</div>
 
-</td>
-<td width="50%" valign="top" align="center">
-
+<div align="right">
 <h1>📊 Stats</h1>
 
 <img width="100%" alt="baptid's Stats" src="https://github-readme-stats.vercel.app/api?username=baptid&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=FF000000">
 
 <img width="100%" alt="baptid's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=baptid&theme=tokyonight&hide_border=true&background=FF000000">
-
-</td>
-</tr>
-</table>
+</div>
 
 <h1>🌐 Socials</h1>
 
