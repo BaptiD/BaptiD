@@ -38,8 +38,6 @@ Im a 3rd year 🎓student at **<a href="https://www.epitech.eu/">Epitech Paris</
 [![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)](https://www.ovhcloud.com/)
 </div>
 
-<h1>📊 Stats</h1>
-
 <div align="left">
 
 [<img width="49%" alt="baptid's Stats" src="https://github-readme-stats.vercel.app/api?username=baptid&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=FF000000">](#)
