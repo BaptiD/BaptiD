@@ -11,12 +11,9 @@ Im a 3rd year 🎓student at **<a href="https://www.epitech.eu/">Epitech Paris</
 
 <br>
 
-<table>
-  <td>
-    <tr>
-      <h1> 💻 Tech Stack</h1>
+<h1> 💻 Tech Stack</h1>
 
-<h3> These are my ❤️</h3>
+<h3>These are my ❤️</h3>
 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.c-language.org/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -40,10 +37,7 @@ Im a 3rd year 🎓student at **<a href="https://www.epitech.eu/">Epitech Paris</
 [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org/fr/)
 [![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)](https://www.ovhcloud.com/)
 
-    </tr>
-  </td>
-</table>
-
+<br>
 
 <h1> 📊 Stats</h1>
 
