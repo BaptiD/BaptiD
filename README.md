@@ -12,7 +12,7 @@ Im a 3rd year 🎓student at **<a href="https://www.epitech.eu/">Epitech Paris</
 <br>
 
 
-<div align="right">
+<div align="right" width="30%">
 <h1>💻 Tech Stack</h1>
 
 <h3>These are my ❤️</h3>
