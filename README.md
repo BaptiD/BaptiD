@@ -3,10 +3,6 @@
 <br>
 
 <h1>Hello everyone !</h1>
-
-<br>
-
-
 Im a 3rd year :mortar_board:student at **<a href="https://www.epitech.eu/">Epitech Paris</a>**, dotted with **<a href="https://www.solustop.com/">Solustop</a>** internships
 
 <br>
