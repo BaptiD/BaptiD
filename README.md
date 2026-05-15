@@ -38,7 +38,6 @@ Im a 3rd year :mortar_board:student at **<a href="https://www.epitech.eu/">Epite
 
 <h1> :bar_chart: Stats</h1>
 
-<img width="49%" alt="baptid's Stats" src="https://github-readme-stats.vercel.app/api?username=baptid&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=FF000000">
 <img width="49%" alt="baptid's Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=baptid&theme=tokyonight&hide_border=true&background=FF000000">
 
 <h1>:globe_with_meridians: Socials</h1>
